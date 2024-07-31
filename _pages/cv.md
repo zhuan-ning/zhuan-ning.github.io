@@ -25,7 +25,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-💬 Talks
+💬 Talks and Conferences
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
