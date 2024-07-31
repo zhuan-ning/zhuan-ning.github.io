@@ -8,4 +8,4 @@ date: 2023-04-23
 location: "Chongqing, China"
 ---
 
-More information about the conference [here](https://phys.cqu.edu.cn/info/1120/5714.htm). The talk is about [this paper](https://zhuan-ning.github.io/publication/2210-14539-Descalarization-by-quenching-charged-hairy-black-hole-in-asymptotically-AdS-spacetime). Slide can be downloaded [here](https://zhuan-ning.github.io/files/2023-04-23-Chongqing.pdf)
+More information about the conference can be found [here](https://phys.cqu.edu.cn/info/1120/5714.htm). The talk is about [this paper](https://zhuan-ning.github.io/publication/2210-14539-Descalarization-by-quenching-charged-hairy-black-hole-in-asymptotically-AdS-spacetime). Slide can be downloaded [here](https://zhuan-ning.github.io/files/2023-04-23-Chongqing.pdf).
