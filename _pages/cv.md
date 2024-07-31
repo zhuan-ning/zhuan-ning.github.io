@@ -15,7 +15,7 @@ redirect_from:
   - *PhD candidate* in Theoretical Physics, Sep. 2024 – Jun. 2027 (expected)
 - University of Chinese Academy of Sciences, School of Physical Sciences
   - *Master of Science* in Theoretical Physics, Sep. 2021 – Jun. 2024
-- University of Chinese Academy of Sciences, Undergraduate Education Department
+- University of Chinese Academy of Sciences, Undergraduate Department
   - *Bachelor of Science* in Physics, Sep. 2017 – Jun. 2021
   - *Minor* in Mathematics and Applied Mathematics
   
