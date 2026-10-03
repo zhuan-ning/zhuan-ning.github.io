@@ -9,56 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+📖 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Institute of Theoretical Physics, Chinese Academy of Sciences
+  - *PhD candidate* in Theoretical Physics, Sep. 2024 – Jun. 2027 (expected)
+- University of Chinese Academy of Sciences, School of Physical Sciences
+  - *Master of Science* in Theoretical Physics, Sep. 2021 – Jun. 2024
+- University of Chinese Academy of Sciences, Undergraduate Department
+  - *Bachelor of Science* in Physics, Sep. 2017 – Jun. 2021
+  - *Minor* in Mathematics and Applied Mathematics
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+📝 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+💬 Talks and Conferences
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+🧑‍🏫 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+⚙️ Skills
 ======
-* Currently signed in to 43 different slack teams
+- Technical Skills
+  - Python, Wolfram Mathematica, MATLAB, LaTeX, Java, Fortran, Git
+- Languages
+  - English (IELTS 6.5), Chinese (native)
+  
+🎖 Honors and Awards
+======
+- Outstanding Graduates of Beijing, Jun. 2024
+- Outstanding Graduates of UCAS, Jun. 2024
+- **National Scholarship (top 2%)**, Oct. 2023
+- Merit Student of UCAS (*twice*), Jun. 2022 & 2023
+- Excellent League Member, May 2020
