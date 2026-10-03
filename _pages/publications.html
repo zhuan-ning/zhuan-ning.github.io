@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.inspire-hep %}
-  <div class="wordwrap">You can also find a list of my latest papers on <a href="{{ site.author.inspire-hep }}">my INSPIRE-HEP profile</a>.</div>
-{% endif %}
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% if site.author.googlescholar or site.author.inspire-hep %}
+  <div class="wordwrap">You can also find my articles on my {% if site.author.googlescholar %}<a href="{{site.author.googlescholar}}">Google Scholar profile</a>{% endif %}{% if site.author.googlescholar and site.author.inspire-hep %} and {% endif %}{% if site.author.inspire-hep %}<a href="{{ site.author.inspire-hep }}">INSPIRE-HEP profile</a>{% endif %}.</div>
 {% endif %}
 
 {% include base_path %}
