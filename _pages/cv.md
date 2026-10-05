@@ -51,7 +51,7 @@ redirect_from:
 ⚙️ Skills
 ======
 - Research Codes
-  - [GRChombo](https://www.grchombo.org/), [CosmoLattice](https://cosmolattice.net/), [SPriBHoS](https://github.com/albert-escriva/SPriBHoS), [COSMOS](https://sites.google.com/view/cosmoscode), [GR1D](https://stellarcollapse.org/index.php/GR1D.html)
+  - [GRChombo](https://www.grchombo.org/), [CosmoLattice](https://cosmolattice.net/), [SPriBHoS](https://github.com/albert-escriva/SPriBHoS), [COSMOS](https://sites.google.com/view/cosmoscode), [InflationEasy](https://github.com/caravangelo/inflation-easy), [GR1D](https://stellarcollapse.org/index.php/GR1D.html)
 - Research Methods
   - Numerical relativity, lattice simulations, AMR, perturbation theory
 - Technical Skills
