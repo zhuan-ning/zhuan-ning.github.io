@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Zhuan Ning (宁专). I was born in Yiyang, Hunan Province, China. I am currently a PhD candidate at the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) and [Institute of Theoretical Physics, Chinese Academy of Sciences](http://english.itp.cas.cn/), supervised by [Prof. Rong-Gen Cai](http://english.itp.cas.cn/sourcedb/people2020_30481/casmemeber2020/202510/t20251009_1075277.html). Before starting my PhD, I completed my bachelor's and master's degrees at the University of Chinese Academy of Sciences.
 
-I work in gravity and cosmology. I use numerical relativity and lattice simulations to study the nonlinear dynamics of compact objects and the early Universe, including black holes, boson stars, primordial black holes, and gravitational-wave sources.
+I work in gravity and cosmology. I use numerical relativity and lattice simulations to study the nonlinear dynamics of compact objects and the early Universe, including boson stars, primordial black holes, and gravitational-wave sources.
 
 This website presents my [publications](/publications/), [talks](/talks/) and some [visualizations](/visualizations/). If you have any questions or suggestions, please feel free to contact me.
 

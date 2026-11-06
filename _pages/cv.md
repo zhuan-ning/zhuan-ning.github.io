@@ -55,6 +55,6 @@ redirect_from:
 - Research Methods
   - Numerical relativity, lattice simulations, AMR, perturbation theory
 - Technical Skills
-  - C/C++, Python, Wolfram Mathematica, MATLAB, Java, Fortran, MPI, OpenMP, GPU acceleration, Git, LaTeX
+  - C/C++, Python, Wolfram Mathematica, MATLAB, Java, Fortran, MPI, OpenMP, GPU computing, Git, LaTeX
 - Languages
   - Chinese (native), English (IELTS 6.5)
