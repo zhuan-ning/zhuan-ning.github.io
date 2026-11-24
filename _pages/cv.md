@@ -19,6 +19,10 @@ redirect_from:
   - *Bachelor of Science* in Physics, Sep. 2017 – Jul. 2021
   - *Minor* in Mathematics and Applied Mathematics
 
+🔬 Research Visits
+======
+- Invited research visit: Asia Pacific Center for Theoretical Physics (APCTP), Korea, Nov. 22–27, 2026
+
 📝 Publications
 ======
   <ul>{% for post in site.publications reversed %}
